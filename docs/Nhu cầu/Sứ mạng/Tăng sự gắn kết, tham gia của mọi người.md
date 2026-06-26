@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-20T12:58
-updated: 2026-06-14T12:43
+updated: 2026-06-26T23:08
 alias: Xây dựng cộng đồng
 ---
 ## Giả thiết

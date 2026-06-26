@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-08-20T14:11
-updated: 2026-06-14T12:43
+updated: 2026-06-26T23:08
 alias: Có tiền, Kiếm tiền, Độc lập tài chính, tự chủ tài chính
 ---
 ## Giả thiết

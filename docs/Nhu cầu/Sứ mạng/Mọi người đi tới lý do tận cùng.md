@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-06-01T15:06
-updated: 2026-06-14T12:43
+updated: 2026-06-26T23:08
 ---
 ## Giả thiết
 - Mọi người thấy sự minh bạch là cần thiết chứ không phải nhức đầu

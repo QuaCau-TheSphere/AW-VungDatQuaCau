@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-04-26T23:38
-updated: 2026-06-14T12:43
+updated: 2026-06-26T23:08
 ---
 ## Giả thiết
 - Họ thấy có điều khác đáp ứng được nhu cầu của mình

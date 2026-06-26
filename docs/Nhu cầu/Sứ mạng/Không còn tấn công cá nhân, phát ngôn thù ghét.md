@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2025-05-29T11:15
-updated: 2026-06-14T12:43
+updated: 2026-06-26T23:08
 ---
 ## Giả thiết
 - [Mọi người quan tâm đến đời sống của nhau](./M%E1%BB%8Di%20ng%C6%B0%E1%BB%9Di%20quan%20t%C3%A2m%20%C4%91%E1%BA%BFn%20%C4%91%E1%BB%9Di%20s%E1%BB%91ng%20c%E1%BB%A7a%20nhau.md)
