@@ -1,8 +1,8 @@
 ---
 share: true
 created: 2026-06-14T12:50
-updated: 2026-06-14T15:05
-title: Vai trò
+updated: 2026-06-14T16:48
+title: Vai trò của từng người trong hệ thống
 ---
 Dù Quả Cầu hướng đến sự tản quyền hóa/giải trung tâm hóa/phi thứ bậc hóa, thì cũng phải thừa nhận là khi có một quyết định ảnh hưởng đến người khác, mà người ra quyết định thì nhức đầu với việc giải thích cặn kẽ lý do của mình, nhưng tin rằng điều mình làm về lâu dài là tốt cho tất cả, thì rồi sẽ cần tới sự tập quyền hóa/trung tâm hóa/thứ bậc hóa. Một trong những ví dụ đó là ở hệ thống thông tin.
 
