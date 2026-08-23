@@ -1,6 +1,6 @@
 ---
 created: 2025-05-20T22:53
-updated: 2026-06-26T23:07
+updated: 2026-08-03T14:23
 share: true
 ---
 Việc có một cộng đồng sẽ có lợi để các công ty khai thác, nhưng họ không sẵn sàng trả tiền để xây dựng chúng.

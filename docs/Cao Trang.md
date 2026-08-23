@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-06-19T11:54
-updated: 2026-06-19T11:55
+updated: 2026-07-06T14:22
 ---
 [19/06/2026 09:24:50] Cao Trang: - từ đâu bà biết đến QC: do là bạn của Nhật
 - bà thấy được những giá trị gì ở QC: mục tiêu tốt đẹp, nếu có thể thực hiện thì rất tốt

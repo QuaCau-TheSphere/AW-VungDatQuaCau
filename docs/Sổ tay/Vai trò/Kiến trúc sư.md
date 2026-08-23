@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-06-14T14:59
-updated: 2026-06-14T17:47
+updated: 2026-08-05T23:00
 ---
 Nhóm kiến trúc sư có quyền quản trị cao nhất ở tất cả các phần mềm, nền tảng SaaS.
 
