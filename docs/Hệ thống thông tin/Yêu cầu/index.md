@@ -1,10 +1,10 @@
 ---
 share: true
 created: 2026-01-19T15:20
-updated: 2026-06-14T15:28
+updated: 2026-07-30T13:44
 title: Yêu cầu
 ---
-Từ các [Đề bài](./%C4%90%E1%BB%81%20b%C3%A0i/index.md), nhóm [Kiến trúc sư](../../S%E1%BB%95%20tay/Vai%20tr%C3%B2/Ki%E1%BA%BFn%20tr%C3%BAc%20s%C6%B0.md) sẽ thiết kế, triển khai các [Yêu cầu chức năng](./Y%C3%AAu%20c%E1%BA%A7u%20ch%E1%BB%A9c%20n%C4%83ng/index.md) và [Yêu cầu phi chức năng](./Y%C3%AAu%20c%E1%BA%A7u%20phi%20ch%E1%BB%A9c%20n%C4%83ng/index.md).
+Từ các [Đề bài](./%C4%90%E1%BB%81%20b%C3%A0i/index.md), nhóm [Kiến trúc sư](../../S%E1%BB%95%20tay/Vai%20tr%C3%B2/Ki%E1%BA%BFn%20tr%C3%BAc%20s%C6%B0.md) sẽ thiết kế, triển khai các [Yêu cầu chức năng, kiến trúc thông tin](Y%C3%AAu%20c%E1%BA%A7u%20ch%E1%BB%A9c%20n%C4%83ng,%20ki%E1%BA%BFn%20tr%C3%BAc%20th%C3%B4ng%20tin.md) và [Yêu cầu phi chức năng, kiến trúc phần mềm](Y%C3%AAu%20c%E1%BA%A7u%20phi%20ch%E1%BB%A9c%20n%C4%83ng,%20ki%E1%BA%BFn%20tr%C3%BAc%20ph%E1%BA%A7n%20m%E1%BB%81m.md).
 
 
 ---
