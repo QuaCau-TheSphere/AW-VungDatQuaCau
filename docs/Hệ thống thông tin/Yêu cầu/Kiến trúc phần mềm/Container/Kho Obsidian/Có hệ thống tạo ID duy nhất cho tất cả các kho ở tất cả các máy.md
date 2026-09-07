@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-02-03T13:43
-updated: 2026-08-23T16:25
+updated: 2026-09-07T01:46
 ---
 ## Mục tiêu
 - [Khi hợp nhất hoặc di chuyển tệp thì URL đã được chia sẻ vẫn truy cập được](../../../Ki%E1%BA%BFn%20tr%C3%BAc%20th%C3%B4ng%20tin/Chia%20s%E1%BA%BB%20d%E1%BB%AF%20li%E1%BB%87u/Khi%20h%E1%BB%A3p%20nh%E1%BA%A5t%20ho%E1%BA%B7c%20di%20chuy%E1%BB%83n%20t%E1%BB%87p%20th%C3%AC%20URL%20%C4%91%C3%A3%20%C4%91%C6%B0%E1%BB%A3c%20chia%20s%E1%BA%BB%20v%E1%BA%ABn%20truy%20c%E1%BA%ADp%20%C4%91%C6%B0%E1%BB%A3c.md)
@@ -15,6 +15,7 @@ Yêu cầu:
 - Nếu phát hiện có hai ghi chú có chung một id (VD: lúc lập kho mới thì sao chép tệp "Tự ngẫm nghĩ, trải nghiệm") thì...
 
 Khi nhập ghi chú lại thì lấy tất cả id?
+
 ## Giải pháp
 ### Khi tạo thì kiểm tra id được tạo gần nhất rồi gán id trong frontmatter luôn
 Cần một nơi tập trung để lưu id gần nhất. Khi tạo mới thì cần cập nhật
