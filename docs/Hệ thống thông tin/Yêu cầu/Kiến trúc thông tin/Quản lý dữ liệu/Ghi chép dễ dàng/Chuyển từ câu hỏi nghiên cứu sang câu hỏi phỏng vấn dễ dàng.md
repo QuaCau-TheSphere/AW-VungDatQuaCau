@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-02-18T13:59
-updated: 2026-06-14T12:06
+updated: 2026-09-07T01:37
 ---
 - Tạo template câu hỏi phỏng vấn:
 	- Lưu trong cùng folder 

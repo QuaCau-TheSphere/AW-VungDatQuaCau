@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2026-01-19T15:21
-updated: 2026-06-14T11:57
+updated: 2026-09-07T01:49
 ---
 ## Tính năng
 - [4] Thêm nơi đăng mới không cần url. Nếu không có url thì chỉnh sửa trong khai báo yaml luôn

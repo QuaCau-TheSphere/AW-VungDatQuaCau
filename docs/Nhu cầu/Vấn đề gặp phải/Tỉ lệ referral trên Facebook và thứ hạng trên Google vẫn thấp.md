@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2024-09-02T17:29
-updated: 2026-06-26T23:07
+updated: 2026-09-07T01:44
 ---
 Bọn em là tổ chức phi lợi nhuận với nhiều sản phẩm khác nhau. Để ví dụ, một trong các sản phẩm chính của tụi em là "Các buổi đáp ứng nhu cầu học cách sử dụng công cụ và tư duy lập trình cho nhu cầu công việc". Anh chị có thể đọc bài chi tiết ở đây: https://doi-thoai.deno.dev/cac-buoi-dap-ung-nhu-cau-hoc-cach-su-dung-cong-cu-va-tu-duy-lap-trinh-cho-nhu-cau-ca-nhan-hoac-nghien-cuu.P6orDhF.1
 
