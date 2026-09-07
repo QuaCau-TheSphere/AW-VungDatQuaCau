@@ -1,7 +1,7 @@
 ---
 share: true
 created: 2023-09-05T16:17
-updated: 2026-09-07T15:14
+updated: 2026-09-07T16:22
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=anEPsQCBPKI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -116,7 +116,7 @@ làm cv
 
 demo Công việc cũ về xử lý số liệu
 
-## Buổi tới
+## 16/08/2024
 [16/08/2024 00:19:03] Lý Minh Nhật: Hmm, tui thắc mắc là độ hứng thú của bà tới những câu hỏi của tui là như thế nào?
 [16/08/2024 09:39:44] Dang Diem Huong: Tui đang thấy là bạn hỏi thì tui sẽ trả lời vì tui hông xét là bạn đang hỏi câu tui có hứng thú thì tui trả lời, còn câu hông có hứng thú thì hông trả lời.
 Tui chỉ quan tâm là bạn muốn hỏi gì và tui trả lời đúng cái bạn cần hỏi chưa thôi hà.
